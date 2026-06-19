@@ -1,0 +1,13 @@
+- Added Chams (Uses highlights) with Enemy, Team and Bot Support. (Only enemy bots for now)
+- Added several weapon mods:
+> Infinite Ammo
+> and more useless dog shit that doesnt work for whatever reason  
+- Added customizable third person
+- Added viewmodel offset (buggy, may need a re-equip to refresh positions)
+- Added Kill Sounds + Kill Notifs (may be buggy)
+- Added 2 kill sound presets: (Minecraft OOF, Neverlose)
+- Added Auto Shoot for silent aim
+- Added Legit Aim lock 
+- Improved Visible Check
+- Moved team + visible checks in favor of adding aim lock
+- More changes
